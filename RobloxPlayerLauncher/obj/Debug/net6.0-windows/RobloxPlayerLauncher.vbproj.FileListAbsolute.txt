@@ -1,0 +1,17 @@
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\bin\Debug\net6.0-windows\RobloxPlayerLauncher.exe
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\bin\Debug\net6.0-windows\RobloxPlayerLauncher.deps.json
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\bin\Debug\net6.0-windows\RobloxPlayerLauncher.runtimeconfig.json
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\bin\Debug\net6.0-windows\RobloxPlayerLauncher.dll
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\bin\Debug\net6.0-windows\RobloxPlayerLauncher.pdb
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.Form1.resources
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.Resources.resources
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.vbproj.GenerateResource.cache
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.AssemblyInfoInputs.cache
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.AssemblyInfo.vb
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.vbproj.CoreCompileInputs.cache
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.dll
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\refint\RobloxPlayerLauncher.dll
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.pdb
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\RobloxPlayerLauncher.genruntimeconfig.cache
+C:\Users\hyzh\source\repos\RobloxPlayerLauncher\RobloxPlayerLauncher\obj\Debug\net6.0-windows\ref\RobloxPlayerLauncher.dll

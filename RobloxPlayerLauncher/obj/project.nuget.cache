@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4Eyo0ZiIUeZOTd+MTohDCqxsIag8PeTWJJHaozDpHzaG/j/Lsi0ZubBtVguN7TbW8i8a7r35f0kD9JNpdoOog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyzh\\source\\repos\\RobloxPlayerLauncher\\RobloxPlayerLauncher\\RobloxPlayerLauncher.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyzh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hyzh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hyzh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hyzh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
