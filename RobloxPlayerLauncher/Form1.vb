@@ -36,7 +36,7 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         If canRunRoblox = True Then 'you can run roblox
-            Process.Start("cmd.exe", "/c start %localappdata%\Roblox\Versions\version-0a57b2f24afe434b\RobloxPlayerBeta.exe && exit")
+            Process.Start("cmd.exe", "/c start %localappdata%\Roblox\Versions\version-d6abc3b106a04c5c\RobloxPlayerBeta.exe && exit")
             'this version of roblox, to change the version just change the "version-something" to the one that you want
             'Roblox it's executed via cmd
             Timer2.Start()

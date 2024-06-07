@@ -1,4 +1,4 @@
-Imports Microsoft.VisualBasic.ApplicationServices
+﻿Imports Microsoft.VisualBasic.ApplicationServices
 
 Namespace My
     ' The following events are available for MyApplication:
