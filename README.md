@@ -1,6 +1,6 @@
 <h1>RobloxPlayerLauncher, fanmade</h1>
 <hr>
-<p>For now it will only launch the official roblox in the version <h3>0a57b2f24afe434b</h3></p> 
+<p>For now it will only launch the official roblox in the version <h3>d6abc3b106a04c5c</h3></p> 
 <hr>
 <h1>HOW TO BUILD IT YOURSELF</h1>
 <hr>
@@ -31,3 +31,6 @@ git clone https://github.com/1hyzh/RobloxPlayerLauncher.git
 
 <hr>
 <p>Execute RobloxPlayerLauncher.exe and you're done!</p>
+<hr>
+
+<h1>IT DOES NOT WORK RN</h1>
